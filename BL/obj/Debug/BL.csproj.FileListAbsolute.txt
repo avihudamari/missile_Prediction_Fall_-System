@@ -1,0 +1,264 @@
+C:\Users\litalush\source\repos\ConsoleApp1\BL\bin\Debug\BL.dll
+C:\Users\litalush\source\repos\ConsoleApp1\BL\bin\Debug\BL.pdb
+C:\Users\litalush\source\repos\ConsoleApp1\BL\bin\Debug\BE.dll
+C:\Users\litalush\source\repos\ConsoleApp1\BL\bin\Debug\DAL.dll
+C:\Users\litalush\source\repos\ConsoleApp1\BL\bin\Debug\BE.pdb
+C:\Users\litalush\source\repos\ConsoleApp1\BL\bin\Debug\DAL.pdb
+C:\Users\litalush\source\repos\ConsoleApp1\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\litalush\source\repos\ConsoleApp1\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\litalush\source\repos\ConsoleApp1\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\litalush\source\repos\ConsoleApp1\BL\obj\Debug\BL.dll
+C:\Users\litalush\source\repos\ConsoleApp1\BL\obj\Debug\BL.pdb
+C:\Users\1\Desktop\ConsoleApp1\BL\bin\Debug\BL.dll.config
+C:\Users\1\Desktop\ConsoleApp1\BL\bin\Debug\BL.dll
+C:\Users\1\Desktop\ConsoleApp1\BL\bin\Debug\BL.pdb
+C:\Users\1\Desktop\ConsoleApp1\BL\bin\Debug\BE.dll
+C:\Users\1\Desktop\ConsoleApp1\BL\bin\Debug\DAL.dll
+C:\Users\1\Desktop\ConsoleApp1\BL\bin\Debug\Elasticsearch.Net.dll
+C:\Users\1\Desktop\ConsoleApp1\BL\bin\Debug\ExifLib.dll
+C:\Users\1\Desktop\ConsoleApp1\BL\bin\Debug\Geocoding.Core.dll
+C:\Users\1\Desktop\ConsoleApp1\BL\bin\Debug\Geocoding.Microsoft.dll
+C:\Users\1\Desktop\ConsoleApp1\BL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\1\Desktop\ConsoleApp1\BL\bin\Debug\System.Buffers.dll
+C:\Users\1\Desktop\ConsoleApp1\BL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\1\Desktop\ConsoleApp1\BL\bin\Debug\EntityFramework.dll
+C:\Users\1\Desktop\ConsoleApp1\BL\bin\Debug\BE.pdb
+C:\Users\1\Desktop\ConsoleApp1\BL\bin\Debug\DAL.pdb
+C:\Users\1\Desktop\ConsoleApp1\BL\bin\Debug\DAL.dll.config
+C:\Users\1\Desktop\ConsoleApp1\BL\bin\Debug\Elasticsearch.Net.xml
+C:\Users\1\Desktop\ConsoleApp1\BL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\1\Desktop\ConsoleApp1\BL\bin\Debug\System.Buffers.xml
+C:\Users\1\Desktop\ConsoleApp1\BL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\1\Desktop\ConsoleApp1\BL\bin\Debug\EntityFramework.xml
+C:\Users\1\Desktop\ConsoleApp1\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\1\Desktop\ConsoleApp1\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\ConsoleApp1\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\1\Desktop\ConsoleApp1\BL\obj\Debug\BL.dll
+C:\Users\1\Desktop\ConsoleApp1\BL\obj\Debug\BL.pdb
+C:\Users\1\Desktop\ConsoleApp1\BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\1\Desktop\ConsoleApp1\BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\1\Desktop\ConsoleApp1\BL\bin\Debug\BE.dll.config
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\BL\obj\Debug\BL.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\BL\obj\Debug\BL.pdb
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\BL\bin\Debug\BL.dll.config
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\BL\bin\Debug\BL.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\BL\bin\Debug\BL.pdb
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\BL\bin\Debug\BE.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\BL\bin\Debug\DAL.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\BL\bin\Debug\Elasticsearch.Net.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\BL\bin\Debug\EntityFramework.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\BL\bin\Debug\ExifLib.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\BL\bin\Debug\Geocoding.Core.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\BL\bin\Debug\Geocoding.Microsoft.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\BL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\BL\bin\Debug\System.Buffers.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\BL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\BL\bin\Debug\BE.pdb
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\BL\bin\Debug\BE.dll.config
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\BL\bin\Debug\DAL.pdb
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\BL\bin\Debug\DAL.dll.config
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\BL\bin\Debug\Elasticsearch.Net.xml
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\BL\bin\Debug\EntityFramework.xml
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\BL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\BL\bin\Debug\System.Buffers.xml
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\BL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\BL\bin\Debug\BL.dll.config
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\BL\bin\Debug\BL.dll
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\BL\bin\Debug\BL.pdb
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\BL\bin\Debug\BE.dll
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\BL\bin\Debug\DAL.dll
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\BL\bin\Debug\Elasticsearch.Net.dll
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\BL\bin\Debug\EntityFramework.dll
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\BL\bin\Debug\ExifLib.dll
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\BL\bin\Debug\Geocoding.Core.dll
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\BL\bin\Debug\Geocoding.Microsoft.dll
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\BL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\BL\bin\Debug\System.Buffers.dll
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\BL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\BL\bin\Debug\BE.pdb
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\BL\bin\Debug\BE.dll.config
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\BL\bin\Debug\DAL.pdb
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\BL\bin\Debug\DAL.dll.config
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\BL\bin\Debug\Elasticsearch.Net.xml
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\BL\bin\Debug\EntityFramework.xml
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\BL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\BL\bin\Debug\System.Buffers.xml
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\BL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\BL\obj\Debug\BL.dll
+C:\Users\litalush\Documents\New folder\ConsoleApp1 (2)\ConsoleApp1\BL\obj\Debug\BL.pdb
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\BL\bin\Debug\BL.dll.config
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\BL\bin\Debug\BL.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\BL\bin\Debug\BL.pdb
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\BL\bin\Debug\BE.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\BL\bin\Debug\DAL.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\BL\bin\Debug\Elasticsearch.Net.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\BL\bin\Debug\EntityFramework.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\BL\bin\Debug\ExifLib.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\BL\bin\Debug\Geocoding.Core.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\BL\bin\Debug\Geocoding.Microsoft.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\BL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\BL\bin\Debug\System.Buffers.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\BL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\BL\bin\Debug\BE.pdb
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\BL\bin\Debug\BE.dll.config
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\BL\bin\Debug\DAL.pdb
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\BL\bin\Debug\DAL.dll.config
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\BL\bin\Debug\Elasticsearch.Net.xml
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\BL\bin\Debug\EntityFramework.xml
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\BL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\BL\bin\Debug\System.Buffers.xml
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\BL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\BL\obj\Debug\BL.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\BL\obj\Debug\BL.pdb
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\BL\bin\Debug\BL.dll.config
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\BL\bin\Debug\BL.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\BL\bin\Debug\BL.pdb
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\BL\bin\Debug\BE.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\BL\bin\Debug\DAL.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\BL\bin\Debug\Elasticsearch.Net.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\BL\bin\Debug\EntityFramework.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\BL\bin\Debug\ExifLib.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\BL\bin\Debug\Geocoding.Core.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\BL\bin\Debug\Geocoding.Microsoft.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\BL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\BL\bin\Debug\System.Buffers.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\BL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\BL\bin\Debug\BE.pdb
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\BL\bin\Debug\BE.dll.config
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\BL\bin\Debug\DAL.pdb
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\BL\bin\Debug\DAL.dll.config
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\BL\bin\Debug\Elasticsearch.Net.xml
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\BL\bin\Debug\EntityFramework.xml
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\BL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\BL\bin\Debug\System.Buffers.xml
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\BL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\BL\obj\Debug\BL.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\Missile fall prediction-Project\BL\obj\Debug\BL.pdb
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject3\BL\bin\Debug\BL.dll.config
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject3\BL\bin\Debug\BL.dll
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject3\BL\bin\Debug\BL.pdb
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject3\BL\bin\Debug\BE.dll
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject3\BL\bin\Debug\DAL.dll
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject3\BL\bin\Debug\Elasticsearch.Net.dll
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject3\BL\bin\Debug\EntityFramework.dll
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject3\BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject3\BL\bin\Debug\ExifLib.dll
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject3\BL\bin\Debug\Geocoding.Core.dll
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject3\BL\bin\Debug\Geocoding.Microsoft.dll
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject3\BL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject3\BL\bin\Debug\System.Buffers.dll
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject3\BL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject3\BL\bin\Debug\BE.pdb
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject3\BL\bin\Debug\BE.dll.config
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject3\BL\bin\Debug\DAL.pdb
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject3\BL\bin\Debug\DAL.dll.config
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject3\BL\bin\Debug\Elasticsearch.Net.xml
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject3\BL\bin\Debug\EntityFramework.xml
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject3\BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject3\BL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject3\BL\bin\Debug\System.Buffers.xml
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject3\BL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject3\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject3\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject3\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject3\BL\obj\Debug\BL.dll
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject3\BL\obj\Debug\BL.pdb
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject\BL\bin\Debug\BL.dll.config
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject\BL\bin\Debug\BL.dll
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject\BL\bin\Debug\BL.pdb
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject\BL\bin\Debug\BE.dll
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject\BL\bin\Debug\DAL.dll
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject\BL\bin\Debug\Elasticsearch.Net.dll
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject\BL\bin\Debug\EntityFramework.dll
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject\BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject\BL\bin\Debug\ExifLib.dll
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject\BL\bin\Debug\Geocoding.Core.dll
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject\BL\bin\Debug\Geocoding.Microsoft.dll
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject\BL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject\BL\bin\Debug\System.Buffers.dll
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject\BL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject\BL\bin\Debug\BE.pdb
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject\BL\bin\Debug\DAL.pdb
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject\BL\bin\Debug\Elasticsearch.Net.xml
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject\BL\bin\Debug\EntityFramework.xml
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject\BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject\BL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject\BL\bin\Debug\System.Buffers.xml
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject\BL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject\BL\obj\Debug\BL.dll
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject\BL\obj\Debug\BL.pdb
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject\BL\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject\BL\bin\Debug\System.AppContext.dll
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject\BL\bin\Debug\System.Console.dll
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject\BL\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject\BL\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject\BL\bin\Debug\System.IO.Compression.dll
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject\BL\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject\BL\bin\Debug\System.IO.dll
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject\BL\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject\BL\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject\BL\bin\Debug\System.Linq.dll
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject\BL\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject\BL\bin\Debug\System.Net.Http.dll
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject\BL\bin\Debug\System.Net.Sockets.dll
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject\BL\bin\Debug\System.Reflection.dll
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject\BL\bin\Debug\System.Runtime.dll
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject\BL\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject\BL\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject\BL\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject\BL\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject\BL\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject\BL\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject\BL\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject\BL\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject\BL\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\Avihu\Source\Repos\missilePredictionWPFProject\BL\bin\Debug\BL.dll.config
+C:\Users\Avihu\Source\Repos\missilePredictionWPFProject\BL\bin\Debug\BL.dll
+C:\Users\Avihu\Source\Repos\missilePredictionWPFProject\BL\bin\Debug\BL.pdb
+C:\Users\Avihu\Source\Repos\missilePredictionWPFProject\BL\bin\Debug\BE.dll
+C:\Users\Avihu\Source\Repos\missilePredictionWPFProject\BL\bin\Debug\DAL.dll
+C:\Users\Avihu\Source\Repos\missilePredictionWPFProject\BL\bin\Debug\Elasticsearch.Net.dll
+C:\Users\Avihu\Source\Repos\missilePredictionWPFProject\BL\bin\Debug\EntityFramework.dll
+C:\Users\Avihu\Source\Repos\missilePredictionWPFProject\BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Avihu\Source\Repos\missilePredictionWPFProject\BL\bin\Debug\ExifLib.dll
+C:\Users\Avihu\Source\Repos\missilePredictionWPFProject\BL\bin\Debug\Geocoding.Core.dll
+C:\Users\Avihu\Source\Repos\missilePredictionWPFProject\BL\bin\Debug\Geocoding.Microsoft.dll
+C:\Users\Avihu\Source\Repos\missilePredictionWPFProject\BL\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Avihu\Source\Repos\missilePredictionWPFProject\BL\bin\Debug\System.Buffers.dll
+C:\Users\Avihu\Source\Repos\missilePredictionWPFProject\BL\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Avihu\Source\Repos\missilePredictionWPFProject\BL\bin\Debug\BE.pdb
+C:\Users\Avihu\Source\Repos\missilePredictionWPFProject\BL\bin\Debug\BE.dll.config
+C:\Users\Avihu\Source\Repos\missilePredictionWPFProject\BL\bin\Debug\DAL.pdb
+C:\Users\Avihu\Source\Repos\missilePredictionWPFProject\BL\bin\Debug\DAL.dll.config
+C:\Users\Avihu\Source\Repos\missilePredictionWPFProject\BL\bin\Debug\Elasticsearch.Net.xml
+C:\Users\Avihu\Source\Repos\missilePredictionWPFProject\BL\bin\Debug\EntityFramework.xml
+C:\Users\Avihu\Source\Repos\missilePredictionWPFProject\BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Avihu\Source\Repos\missilePredictionWPFProject\BL\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Avihu\Source\Repos\missilePredictionWPFProject\BL\bin\Debug\System.Buffers.xml
+C:\Users\Avihu\Source\Repos\missilePredictionWPFProject\BL\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Avihu\Source\Repos\missilePredictionWPFProject\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\Avihu\Source\Repos\missilePredictionWPFProject\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+C:\Users\Avihu\Source\Repos\missilePredictionWPFProject\BL\obj\Debug\BL.csproj.CopyComplete
+C:\Users\Avihu\Source\Repos\missilePredictionWPFProject\BL\obj\Debug\BL.dll
+C:\Users\Avihu\Source\Repos\missilePredictionWPFProject\BL\obj\Debug\BL.pdb

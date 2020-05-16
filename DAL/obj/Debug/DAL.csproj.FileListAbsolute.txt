@@ -1,0 +1,101 @@
+C:\Users\litalush\source\repos\ConsoleApp1\DAL\bin\Debug\DAL.dll
+C:\Users\litalush\source\repos\ConsoleApp1\DAL\bin\Debug\DAL.pdb
+C:\Users\litalush\source\repos\ConsoleApp1\DAL\bin\Debug\BE.dll
+C:\Users\litalush\source\repos\ConsoleApp1\DAL\bin\Debug\BE.pdb
+C:\Users\litalush\source\repos\ConsoleApp1\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\litalush\source\repos\ConsoleApp1\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\litalush\source\repos\ConsoleApp1\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\litalush\source\repos\ConsoleApp1\DAL\obj\Debug\DAL.dll
+C:\Users\litalush\source\repos\ConsoleApp1\DAL\obj\Debug\DAL.pdb
+C:\Users\litalush\source\repos\ConsoleApp1\DAL\bin\Debug\DAL.dll.config
+C:\Users\litalush\source\repos\ConsoleApp1\DAL\bin\Debug\EntityFramework.dll
+C:\Users\litalush\source\repos\ConsoleApp1\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\litalush\source\repos\ConsoleApp1\DAL\bin\Debug\EntityFramework.xml
+C:\Users\litalush\source\repos\ConsoleApp1\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\1\Desktop\ConsoleApp1\DAL\bin\Debug\DAL.dll.config
+C:\Users\1\Desktop\ConsoleApp1\DAL\bin\Debug\DAL.dll
+C:\Users\1\Desktop\ConsoleApp1\DAL\bin\Debug\DAL.pdb
+C:\Users\1\Desktop\ConsoleApp1\DAL\bin\Debug\BE.dll
+C:\Users\1\Desktop\ConsoleApp1\DAL\bin\Debug\EntityFramework.dll
+C:\Users\1\Desktop\ConsoleApp1\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\1\Desktop\ConsoleApp1\DAL\bin\Debug\BE.pdb
+C:\Users\1\Desktop\ConsoleApp1\DAL\bin\Debug\EntityFramework.xml
+C:\Users\1\Desktop\ConsoleApp1\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\1\Desktop\ConsoleApp1\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\1\Desktop\ConsoleApp1\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\ConsoleApp1\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\1\Desktop\ConsoleApp1\DAL\obj\Debug\DAL.dll
+C:\Users\1\Desktop\ConsoleApp1\DAL\obj\Debug\DAL.pdb
+C:\Users\1\Desktop\ConsoleApp1\DAL\bin\Debug\BE.dll.config
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\DAL\obj\Debug\DAL.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\DAL\obj\Debug\DAL.pdb
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\DAL\bin\Debug\DAL.dll.config
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\DAL\bin\Debug\DAL.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\DAL\bin\Debug\DAL.pdb
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\DAL\bin\Debug\BE.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\DAL\bin\Debug\EntityFramework.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\DAL\bin\Debug\BE.pdb
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\DAL\bin\Debug\BE.dll.config
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\DAL\bin\Debug\EntityFramework.xml
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\litalush\Documents\ConsoleApp1 (2)\ConsoleApp1\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\DAL\bin\Debug\DAL.dll.config
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\DAL\bin\Debug\DAL.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\DAL\bin\Debug\DAL.pdb
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\DAL\bin\Debug\BE.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\DAL\bin\Debug\EntityFramework.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\DAL\bin\Debug\BE.pdb
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\DAL\bin\Debug\BE.dll.config
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\DAL\bin\Debug\EntityFramework.xml
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\DAL\obj\Debug\DAL.dll
+C:\Users\litalush\Documents\New folder\final\ConsoleApp1 (2)\ConsoleApp1\DAL\obj\Debug\DAL.pdb
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject3\DAL\bin\Debug\DAL.dll.config
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject3\DAL\bin\Debug\DAL.dll
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject3\DAL\bin\Debug\DAL.pdb
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject3\DAL\bin\Debug\BE.dll
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject3\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject3\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject3\DAL\bin\Debug\BE.pdb
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject3\DAL\bin\Debug\BE.dll.config
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject3\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject3\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject3\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject3\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject3\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject3\DAL\obj\Debug\DAL.dll
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject3\DAL\obj\Debug\DAL.pdb
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject\DAL\bin\Debug\DAL.dll.config
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject\DAL\bin\Debug\DAL.dll
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject\DAL\bin\Debug\DAL.pdb
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject\DAL\bin\Debug\BE.dll
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject\DAL\bin\Debug\BE.pdb
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject\DAL\obj\Debug\DAL.dll
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject\DAL\obj\Debug\DAL.pdb
+C:\Users\Avihu\Source\Repos\LocateMissileFallProject\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Avihu\Source\Repos\missilePredictionWPFProject\DAL\bin\Debug\DAL.dll.config
+C:\Users\Avihu\Source\Repos\missilePredictionWPFProject\DAL\bin\Debug\DAL.dll
+C:\Users\Avihu\Source\Repos\missilePredictionWPFProject\DAL\bin\Debug\DAL.pdb
+C:\Users\Avihu\Source\Repos\missilePredictionWPFProject\DAL\bin\Debug\BE.dll
+C:\Users\Avihu\Source\Repos\missilePredictionWPFProject\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Avihu\Source\Repos\missilePredictionWPFProject\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Avihu\Source\Repos\missilePredictionWPFProject\DAL\bin\Debug\BE.pdb
+C:\Users\Avihu\Source\Repos\missilePredictionWPFProject\DAL\bin\Debug\BE.dll.config
+C:\Users\Avihu\Source\Repos\missilePredictionWPFProject\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Avihu\Source\Repos\missilePredictionWPFProject\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Avihu\Source\Repos\missilePredictionWPFProject\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Avihu\Source\Repos\missilePredictionWPFProject\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Avihu\Source\Repos\missilePredictionWPFProject\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Avihu\Source\Repos\missilePredictionWPFProject\DAL\obj\Debug\DAL.dll
+C:\Users\Avihu\Source\Repos\missilePredictionWPFProject\DAL\obj\Debug\DAL.pdb
